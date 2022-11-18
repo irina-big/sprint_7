@@ -4,30 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a9fbb0f-8f9b-45a6-9beb-aa0d98511777" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CourierClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Generators/CourierGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Generators/OrderGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Models/Colors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Models/Courier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Models/Credentials.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Models/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Models/Track.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OrderClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CourierTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ListOrdersTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/OrderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/myProfile.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/newCard.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/updateProfile.json" afterDir="false" />
+    <list default="true" id="0a9fbb0f-8f9b-45a6-9beb-aa0d98511777" name="Changes" comment="new branch develop">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CourierClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CourierClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Generators/CourierGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Generators/CourierGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Generators/OrderGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Generators/OrderGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OrderClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OrderClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CourierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CourierTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ListOrdersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ListOrdersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/OrderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OrderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/08e70192-a38c-4a9b-ab73-fa51a83f0e0d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/0f0b987a-3d0b-4d34-9e55-162795f125ae-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/1512f59c-5f0b-4066-8c18-4a51fdfafcaf-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/17904d91-50d0-4ec5-aec2-f1324408d2c5-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/2aa075e0-259b-469b-9979-fd6319576dd6-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/30a40d56-7262-4ce1-b2f3-7e65e4b7ec0b-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/32333ca9-aea1-452b-b931-88ec0609a028-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/3aea05c6-c4e3-422f-bf4d-0fe0a1464ba9-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/412dae43-5f2f-441a-9962-3d528e736180-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/671acba5-5b31-4332-a295-15fa7e45eb3f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/77df8261-cd8f-4830-be0f-81444c1bb7b2-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/7d50b6a7-e00f-4089-8d2b-d3e01159da15-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/7dfe2e13-2879-4ddd-8520-75e6d477f4d4-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/7f30cb6c-eefa-47ba-afde-10eada5f6133-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/7f48c1d9-de8d-451c-a7e4-24e305cd242d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/80127b49-df97-4df7-a663-2d099292e1f2-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/836d694f-700f-4a6f-a6aa-96e0b1bf18fb-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/87cf88a0-5a04-49f4-8803-4d232f4070af-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/8cfd44ef-289c-4c31-abf2-d85bca7b429b-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/937031e3-43ff-477e-9bfb-6201c6f2d6fb-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/93de4d74-4038-41a3-bc20-08a879497eb3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/9ab90d33-f7ff-4983-b5c0-6eea9cf71643-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/a15b75f4-5ceb-471c-8db5-4ffd31bbc8b4-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/a7fe3a75-14c0-4d82-ac8b-277154bc3feb-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/aba70158-72b6-4506-a92f-e5453ceba089-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/allure.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/cbb3c8ee-b107-449a-8aa3-701325e5b7b0-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/d5bf7123-22de-48c2-8894-5406fcbb34b3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/db1d8244-d0a3-4f08-9db5-2062b0a70558-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/db802c2a-d7d2-4c1f-8974-55a796d154f9-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/e88f8131-446e-481d-8dee-197255829114-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/executor.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/f7a23549-39df-4449-a757-073be371104e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/fde1d7c7-bd33-4c4a-9ad7-2411130bfacd-result.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +64,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -63,17 +90,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/myJavaProjects/java-parameterized-test",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/myJavaProjects/java-parameterized-test&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -154,6 +181,14 @@
       <option name="presentableId" value="Default" />
       <updated>1667503383345</updated>
     </task>
+    <task id="LOCAL-00001" summary="new branch develop">
+      <created>1668617154914</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668617154914</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,10 +196,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="dev_sprint7" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new branch develop" />
+    <option name="LAST_COMMIT_MESSAGE" value="new branch develop" />
   </component>
 </project>
