@@ -1,7 +1,6 @@
-package Generators;
-
-import Models.Colors;
-import Models.Order;
+package generator;
+import model.Colors;
+import model.Order;
 import java.util.List;
 public class OrderGenerator {
     public static Order getOrderWithOneColor(String color){

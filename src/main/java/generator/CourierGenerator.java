@@ -1,7 +1,7 @@
 
-package Generators;
+package generator;
 
-import Models.Courier;
+import model.Courier;
 
 import java.util.Random;
 
